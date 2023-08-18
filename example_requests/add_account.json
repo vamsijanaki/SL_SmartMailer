@@ -1,0 +1,13 @@
+{
+    "fromName": "Vaibhav Namburi",
+    "fromEmail": "vnamburi@smartleadscale.org",
+    "username": "vnamburi@smartleadscale.org",
+    "password": "sg#2cxEi3Jo@ZX2f!4",
+    "smtpHost": "smtp.zoho.com.au",
+    "smtpPort": 465,
+    "smtpSecure": "ssl",
+    "messagesPerDay": 100,
+    "minimumTimeGap": 60,
+    "maximumTimeGap": 120,
+    "replyToEmail": "vnamburi@smartleadscale.org"
+}
